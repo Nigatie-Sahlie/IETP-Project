@@ -1,6 +1,6 @@
 # CO₂ Capture and Air Purification System
 
-[![Institution](https://img.shields.io/badge/Institution-ASTU-1F4E79)](https://www.astu.edu.et/)
+[![Institution](https://img.shields.io/badge/Institution-AASTU-1F4E79)](https://www.AASTU.edu.et/)
 [![Team](https://img.shields.io/badge/Team-IETP%20Group%2036-2E7D32)](#team)
 [![Status](https://img.shields.io/badge/Status-Prototype%20Completed-0277BD)](#results)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanige-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sanige)
@@ -235,4 +235,4 @@ Design, develop, and test a functional prototype of a CO₂ capture system using
 
 ---
 
-*This project was developed as part of the Integrated Engineering Team Project (IETP) program at ASTU.*
+*This project was developed as part of the Integrated Engineering Team Project (IETP) program at AASTU.*
