@@ -23,11 +23,28 @@
 
 ---
 
+## Nigatie Sahlie Azezew — Electrical & Computer Engineering
+
+This README identifies **Nigatie Sahlie Azezew** as an **Electrical and Computer Engineering** contributor to the interdisciplinary IETP team.
+
+**Electrical and Computer Engineering focus:**
+
+- Arduino Uno microcontroller integration
+- MQ-135 CO₂ sensing and analog measurement
+- Proteus circuit simulation and hardware validation
+- Sensor-driven threshold control and system feedback
+- Air pump and fan integration
+- Electrical testing and prototype system verification
+- Software/hardware monitoring integration
+
+> The project was delivered by an interdisciplinary team. The remaining team members contributed through their respective engineering disciplines and areas of responsibility.
+
 ---
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Nigatie Sahlie Azezew — Electrical & Computer Engineering](#nigatie-sahlie-azezew--electrical--computer-engineering)
 - [Problem Statement](#problem-statement)
 - [Objectives](#objectives)
 - [System Architecture](#system-architecture)
@@ -200,12 +217,14 @@ Design, develop, and test a functional prototype of a CO₂ capture system using
 
 ## Team
 
+The project was delivered by an interdisciplinary team spanning chemical, mechanical, electrical/computer, and software engineering disciplines. Individual departmental assignments are not stated in the published report.
+
 | Name | Student ID |
 |---|---|
 | Abraham Tilksew Taye | ETS0105/14 |
 | Michael Addis Aniley | ETS1060/14 |
 | Rehima Aman Awol | ETS1352/14 |
-| Nigatie Sahlie Azezew | ETS1302/14 |
+| **Nigatie Sahlie Azezew — Electrical & Computer Engineering** | ETS1302/14 |
 | Bona Tariku Jaleta | ETS0399/14 |
 | Lencho Habtamu Namara | ETS0959/14 |
 | Bersabeh Abebe Mulugeta | ETS0305/14 |
@@ -228,7 +247,7 @@ Design, develop, and test a functional prototype of a CO₂ capture system using
 
 ## Project Author
 
-**Nigatie Sahlie Azezew** — Integrated Engineering Team Project team member and software engineering practitioner.
+**Nigatie Sahlie Azezew** — Electrical and Computer Engineering contributor to an interdisciplinary IETP team.
 
 - [LinkedIn](https://www.linkedin.com/in/sanige)
 - [GitHub](https://github.com/Nigatie-Sahlie)
