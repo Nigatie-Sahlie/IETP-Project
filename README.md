@@ -23,19 +23,19 @@
 
 ---
 
-## Nigatie Sahlie Azezew — Electrical & Computer Engineering
+## Nigatie Sahlie Azezew — Software Engineer
 
-This README identifies **Nigatie Sahlie Azezew** as an **Electrical and Computer Engineering** contributor to the interdisciplinary IETP team.
+This README identifies **Nigatie Sahlie Azezew** as a **Software Engineering** contributor to the interdisciplinary IETP team.
 
-**Electrical and Computer Engineering focus:**
+**Software engineering focus:**
 
-- Arduino Uno microcontroller integration
-- MQ-135 CO₂ sensing and analog measurement
-- Proteus circuit simulation and hardware validation
-- Sensor-driven threshold control and system feedback
-- Air pump and fan integration
-- Electrical testing and prototype system verification
-- Software/hardware monitoring integration
+- Flutter/Dart application development
+- Real-time CO₂ concentration monitoring interface
+- System status and sensor data presentation
+- Software integration with Arduino sensor readings
+- Monitoring and feedback workflow design
+- Application testing and prototype validation
+- Technical documentation for the software component
 
 > The project was delivered by an interdisciplinary team. The remaining team members contributed through their respective engineering disciplines and areas of responsibility.
 
@@ -44,7 +44,7 @@ This README identifies **Nigatie Sahlie Azezew** as an **Electrical and Computer
 ## Table of Contents
 
 - [Overview](#overview)
-- [Nigatie Sahlie Azezew — Electrical & Computer Engineering](#nigatie-sahlie-azezew--electrical--computer-engineering)
+- [Nigatie Sahlie Azezew — Software Engineer](#nigatie-sahlie-azezew--software-engineer)
 - [Problem Statement](#problem-statement)
 - [Objectives](#objectives)
 - [System Architecture](#system-architecture)
@@ -224,7 +224,7 @@ The project was delivered by an interdisciplinary team spanning chemical, mechan
 | Abraham Tilksew Taye | ETS0105/14 |
 | Michael Addis Aniley | ETS1060/14 |
 | Rehima Aman Awol | ETS1352/14 |
-| **Nigatie Sahlie Azezew — Electrical & Computer Engineering** | ETS1302/14 |
+| **Nigatie Sahlie Azezew — Software Engineer** | ETS1302/14 |
 | Bona Tariku Jaleta | ETS0399/14 |
 | Lencho Habtamu Namara | ETS0959/14 |
 | Bersabeh Abebe Mulugeta | ETS0305/14 |
@@ -247,7 +247,7 @@ The project was delivered by an interdisciplinary team spanning chemical, mechan
 
 ## Project Author
 
-**Nigatie Sahlie Azezew** — Electrical and Computer Engineering contributor to an interdisciplinary IETP team.
+**Nigatie Sahlie Azezew** — Software Engineering contributor to an interdisciplinary IETP team.
 
 - [LinkedIn](https://www.linkedin.com/in/sanige)
 - [GitHub](https://github.com/Nigatie-Sahlie)
