@@ -1,8 +1,27 @@
 # CO₂ Capture and Air Purification System
 
+[![Institution](https://img.shields.io/badge/Institution-ASTU-1F4E79)](https://www.astu.edu.et/)
+[![Team](https://img.shields.io/badge/Team-IETP%20Group%2036-2E7D32)](#team)
+[![Status](https://img.shields.io/badge/Status-Prototype%20Completed-0277BD)](#results)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanige-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sanige)
+
 > **Integrated Engineering Team Project (IETP) — Group 36**  
 > Addis Ababa Science and Technology University, College of Engineering  
 > Submitted: January 2024 | Advisor: Inst. Melaku Enyeayhu
+
+## Project at a Glance
+
+| | |
+|---|---|
+| **Problem** | Reduce carbon dioxide in ambient air with a compact, affordable capture system |
+| **Approach** | Sodium hydroxide absorption with Arduino-based sensing and airflow control |
+| **Prototype Result** | Average inlet concentration of 520 ppm and outlet concentration of 272 ppm |
+| **Measured Absorption** | 47.69% average efficiency across tests |
+| **Monitoring** | MQ-135 gas sensing, real-time Flutter dashboard concept, and automated feedback control |
+| **Engineering Tools** | Arduino IDE, Proteus, Flutter/Dart, and Microsoft Visio |
+| **Project Documents** | [Proposal](IETP%20proposal.pdf) · [Final Report](IETP_Group_36_Final_Report.pdf) |
+
+---
 
 ---
 
@@ -146,6 +165,7 @@ Design, develop, and test a functional prototype of a CO₂ capture system using
 - The MQ-135 sensor successfully detected CO₂ level changes and triggered appropriate system responses.
 - The Flutter app displayed real-time CO₂ readings from the Arduino over the monitoring period.
 - The prototype confirmed the feasibility of NaOH-based chemical absorption as a compact CO₂ capture solution.
+- **Average measured performance:** 520 ppm inlet versus 272 ppm outlet, equivalent to **47.69% CO₂ absorption efficiency**.
 
 > Detailed test data, CO₂ concentration graphs, and result discussion can be found in **Chapter 5** of the final report.
 
@@ -203,8 +223,15 @@ Design, develop, and test a functional prototype of a CO₂ capture system using
 
 | File | Description |
 |---|---|
-| `IETP proposal.pdf` | Initial project proposal outlining objectives, methodology, timeline, and budget |
-| `IETP_Group_36_Final_Report.pdf` | Comprehensive final report covering literature review, engineering analysis, testing, and results |
+| [`IETP proposal.pdf`](IETP%20proposal.pdf) | Initial project proposal outlining objectives, methodology, timeline, and budget |
+| [`IETP_Group_36_Final_Report.pdf`](IETP_Group_36_Final_Report.pdf) | Comprehensive 38-page final report covering literature review, engineering analysis, testing, and results |
+
+## Project Author
+
+**Nigatie Sahlie Azezew** — Integrated Engineering Team Project team member and software engineering practitioner.
+
+- [LinkedIn](https://www.linkedin.com/in/sanige)
+- [GitHub](https://github.com/Nigatie-Sahlie)
 
 ---
 
